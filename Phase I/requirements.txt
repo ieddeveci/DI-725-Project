@@ -1,0 +1,10 @@
+pillow
+matplotlib
+pandas
+seaborn
+nltk
+numpy
+tqdm
+scikit-learn
+spacy
+word2number
