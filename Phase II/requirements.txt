@@ -1,0 +1,16 @@
+pillow
+matplotlib
+pandas
+seaborn
+nltk
+numpy
+tqdm
+scikit-learn
+spacy
+word2number
+torch
+pillow
+ftfy
+git+https://github.com/openai/CLIP.git
+bitsandbytes
+peft
