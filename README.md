@@ -1,4 +1,4 @@
-# Efficient Fine-Tuning of PaliGemma for Accurate Image Captioning
+# Efficient Fine-Tuning of PaliGemma for Image Captioning
 
 
 This repository contains the final project for the **Transformers and Attention-Based Deep Networks** course. 
