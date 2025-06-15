@@ -3,10 +3,15 @@ numpy
 nltk
 tqdm
 torch
-Pillow
 matplotlib
 transformers
 peft
 wandb
 bitsandbytes
 clip @ git+https://github.com/openai/CLIP.git
+pillow
+seaborn
+scikit-learn
+spacy
+word2number
+ftfy
